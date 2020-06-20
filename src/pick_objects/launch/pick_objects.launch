@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+  <!-- Pick Objects -->
+  <node name="pick_objects_node" pkg="pick_objects" type="pick_objects" output="screen"/>
+</launch>
